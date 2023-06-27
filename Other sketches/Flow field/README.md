@@ -1,0 +1,1 @@
+Refresh the page to change colors.
